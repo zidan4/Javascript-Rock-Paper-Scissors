@@ -1,3 +1,3 @@
 # Javascript-Rock-Paper-Scissors
 
-JavaScript Algorithms
+JavaScript Algorithms and Data Structures
