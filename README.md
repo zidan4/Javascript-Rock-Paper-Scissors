@@ -1,3 +1,3 @@
 # Javascript-Rock-Paper-Scissors
 
-JavaScript
+JavaScript Algorithms
