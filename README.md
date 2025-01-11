@@ -1,8 +1,8 @@
 # Javascript-Rock-Paper-Scissors
 
-freeCodeCamp Practice Project
+freeCodeCamp Practice Project.
 
-JavaScript Algorithms and Data Structures
+JavaScript Algorithms and Data Structures.
 
 
 In the previous projects you learned how to work with basic DOM manipulation. Now it is time to review what you have learned by building a Rock, Paper, Scissors game.
