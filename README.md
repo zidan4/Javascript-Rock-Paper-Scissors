@@ -1,5 +1,7 @@
 # Javascript-Rock-Paper-Scissors
 
+freeCodeCamp Practice Project
+
 JavaScript Algorithms and Data Structures
 
 
